@@ -1,5 +1,9 @@
 # hello-world
 
+## see bug
+
+https://domoratskii.github.io/vue-i18n-linkedm-bug/
+
 ## Project setup
 ```
 npm install
